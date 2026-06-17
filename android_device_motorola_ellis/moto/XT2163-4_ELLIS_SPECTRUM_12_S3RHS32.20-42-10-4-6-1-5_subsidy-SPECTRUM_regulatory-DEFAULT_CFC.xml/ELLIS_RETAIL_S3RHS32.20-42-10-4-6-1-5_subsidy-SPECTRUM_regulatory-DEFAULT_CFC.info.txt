@@ -1,0 +1,11 @@
+BUILD INFORMATION
+  SW Version: ellis_retail-user 12 S3RHS32.20-42-10-4-6-1-5 702c4 release-keys
+  MBM Version: MBM-2.1-ellis_retail-9769cf3d12-231216
+  Modem Version: MT6762_TC2.PR2.SP.V60.2.1.P2.04.51.05R
+  SW Display Build ID: S3RHS32.20-42-10-4-6-1-5
+  Build Fingerprint: motorola/ellis_retail/ellis:12/S3RHS32.20-42-10-4-6-1-5/702c4:user/release-keys
+
+OTHER INFORMATION
+  Subsidy Lock Config: slcf_mediatek_spectrum_v2.0.atc
+  Regulatory Info (eLabel): regulatory_info_default.png
+  eLabel SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
